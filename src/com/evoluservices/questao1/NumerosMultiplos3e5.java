@@ -11,7 +11,7 @@ public class NumerosMultiplos3e5 {
 
     public void ticoTeco() {
         for (int i = 1; i <= 101; i++) {
-            System.out.println(getNumero(i));;
+            System.out.println(getNumero(i));
         }
     }
 
