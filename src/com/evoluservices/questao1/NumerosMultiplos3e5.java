@@ -15,7 +15,7 @@ public class NumerosMultiplos3e5 {
         }
     }
 
-    public String getNumero(int number) {
+    private String getNumero(int number) {
 
         if (number % 3 == 0 && number % 5 == 0) {
             return ticoTeco;
